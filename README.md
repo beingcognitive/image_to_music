@@ -21,3 +21,6 @@ This project enables the creation of music based on the inspiration drawn from a
 3. **Text (Music Generation Prompt) -> [ Facebook MusicGen ] -> Music**
 
 Let's turn your visual inspirations into beautiful melodies!
+
+### HuggingFace Space
+* https://huggingface.co/spaces/beingcognitive/Image_to_Music
