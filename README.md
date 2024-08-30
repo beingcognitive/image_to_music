@@ -22,5 +22,5 @@ This project enables the creation of music based on the inspiration drawn from a
 
 Let's turn your visual inspirations into beautiful melodies!
 
-### HuggingFace Space
+### HuggingFace Spaces
 * https://huggingface.co/spaces/beingcognitive/Image_to_Music
